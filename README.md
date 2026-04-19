@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Zoltan 👋
 
-<!--
-**zoltanlederer/zoltanlederer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Developer · Digital Operations Specialist · Budapest, Hungary · Remote (4+ years)**
 
-Here are some ideas to get you started:
+I work at Avon, where I've spent the past few years building and maintaining
+advisor-facing web platforms — dashboards, content libraries, loyalty tools — mostly
+in JavaScript and with Magnolia CMS. I'm now actively transitioning into Python
+development and data engineering, and working through a structured set of real
+projects to get there.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I'm working on
+
+- Building Python CLI tools and data projects as part of a six-project learning roadmap
+- Targeting Junior Python Developer / Data Engineer roles
+- Portfolio: [zoltanlederer.com](https://zoltanlederer.com)
+
+---
+
+### Tech
+
+`Python` `JavaScript` `REST APIs` `MongoDB` `AWS` `Git` `Magnolia CMS` `Bootstrap`
+
+---
+
+### Find me
+
+[Portfolio](https://zoltanlederer.com) · [LinkedIn](https://linkedin.com/in/zoltan-lederer)
