@@ -1,6 +1,6 @@
 ## Hi, I'm Zoltan 👋
 
-**Web Developer · Digital Operations Specialist · Budapest, Hungary · Remote (4+ years)**
+**Web Developer · Digital Operations Specialist · Budapest, Hungary · Remote (4+ years, incl. Taiwan ×2)**
 
 I work at Avon, where I've spent the past few years building and maintaining
 advisor-facing web platforms — dashboards, content libraries, loyalty tools — mostly
